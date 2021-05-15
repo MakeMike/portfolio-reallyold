@@ -3,11 +3,13 @@
   margin: 0;
   font-family: 'Roboto Mono', monospace;
 }
+
 /*00aa00*/
 /*333*/
 .a{
   position: absolute;
   right: 220;
+  margin-top: 5px;
 }
 .cur{
   animation: bl 1s infinite;
@@ -23,10 +25,12 @@
 .b{
   position: absolute;
   right: 110;
+  margin-top: 5px;
 }
 .c{
   position: absolute;
   right: 0;
+  margin-top: 5px;
 }
 .a:hover{
     text-decoration: underline;
@@ -51,6 +55,7 @@ nav{
 .title{
   position: absolute;
   left: 0;
+  top: 3px;
 }
 a{
   color: #00aa00;
