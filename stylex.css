@@ -91,6 +91,7 @@ h3{
 }
 @media only screen and (max-width: 600px) {
   h1{
-    font-size: 12pt;
+    font-size: 15pt;
+    margin-top: 4px;
   }
 }
